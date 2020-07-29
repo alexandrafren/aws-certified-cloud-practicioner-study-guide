@@ -1,8 +1,8 @@
-#Introduction to the Cloud
+# Introduction to the Cloud
 
 **Section Goal**: Define what the cloud is and the basic global infrastructure
 
-###Introduction to the AWS Cloud
+### Introduction to the AWS Cloud
 
 Before cloud computing, we had to build servers and estimate what our maximum usage for applications might be. If we didn't plan enough, our customers would suffer, it we planned too much, we pay for servers we don't need. AWS allows us to access servers, databases, storage, and higher-level application components in seconds, and allows us to scale up and down our usage of these items as we go.
 
@@ -19,7 +19,7 @@ The key with risk reduction is that AWS is **agile** because it allows you to ma
 2. **Scalability** is the ability to resize your resources as necessary, without impacting *performance*. If you know you’ll have more web traffic around the holidays because you’re a retailer, you can scale up your resources here, and then scale back down after the holiday season. AWS is designed for high availability and dependability. With AWS you can spin up new servers in minutes, and shut them down when you don’t need them or switch them to another purpose.
 
 
->####What's the difference between elasticity and scalability?
+> #### What's the difference between elasticity and scalability?
 >Elasticity is the power to scale computing resources up or down easily, q.>quickly deploy new applications, scale up as your workload grows, shut >down when you don’t need them, autonomically. The differences between >scalability and elasticity is that the scalability focuses on making sure >your resources are availble so there is no impact on performance. >Elasticity is the the abilitiy to provision and de-provision autonomically >so that available resources match demand as close as possible. 
 
 3. **Reliability** is the abilitiy of a system to recover from infrastructure or system failues. This is broken in to two components: Fault Tolerance and High Availability. 
